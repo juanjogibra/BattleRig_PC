@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/fav_id" android:title="fav" android:icon="@mipmap/ic_launcher_favs" app:showAsAction="always" android:enabled="false" />
+    <item android:id="@+id/search_id" android:title="search"  app:actionViewClass = "android.support.v7.widget.SearchView" android:icon="@mipmap/ic_launcher_foreground2" app:showAsAction="always" />
+    <item android:id="@+id/anadir_id" android:title="añadir item"  app:showAsAction="never" android:enabled="false" />
+    <item android:id="@+id/modoscuro_id" android:title="Modo noche"  app:showAsAction="never" android:enabled="false" />
+    <item android:id="@+id/edit_id" android:title="Cambiar vista"  app:showAsAction="never" android:enabled="false" />
+
+
+
+
+
+
+</menu>

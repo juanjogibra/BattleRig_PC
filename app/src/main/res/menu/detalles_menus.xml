@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/navegar_id" android:title="navegar" android:icon="@mipmap/ic_launcher_foregrounddd" app:showAsAction="always" />
+    <item android:id="@+id/compartir_id" android:title="compartir"   android:icon="@mipmap/ic_launcher_compartirr" app:showAsAction="always" />
+    <item android:id="@+id/email_id" android:title="enviar por correo"   android:icon="@mipmap/ic_launcher_foremail" app:showAsAction="always" />
+</menu>
+
